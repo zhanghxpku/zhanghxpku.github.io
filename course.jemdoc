@@ -1,0 +1,113 @@
+# jemdoc: notime
+# jemdoc: menu{MENU}{course.html}
+= Courses
+
+== University of California, Berkeley
+- Spring 2024
+	-- /STAT 260/: Non-stationary Dynamics (audited), by Prof. Vadim Gorin
+
+- Spring 2023
+	-- *COMPSCI 267*: Applications of Parallel Computers, by Prof. Aydin Buluc, Jim Demmel and Laura Grigori
+
+- Spring 2022
+	-- *STAT 248*: Analysis of Time Series, by Prof. Adityanand Guntuboyina
+
+- Fall 2021
+	-- *CS 285*: Deep Reinforcement Learning, by Prof. Sergey Levine
+	-- *EE 229A*: Information Theory and Coding, by Prof. Venkatacha Anantharam
+
+- Spring 2021
+	-- *STAT 210B*: Theoretical Statistics, by Prof. Martin Wainwright
+	-- *STAT 205B*: Probability Theory, by Prof. James Pitman
+
+- Fall 2020
+	-- *STAT 205A*: Probability Theory, by Prof. Shirshendu Ganguly
+	-- *STAT 210A*: Theoretical Statistics, by Prof. William Fithian
+
+- Spring 2020
+	-- *MATH 228B*: Numerical Solutions of Differential Equations, by Prof. Suncica Canic
+	-- *ELENG 227C*: Convex Optimization and Approximation, by Prof. Martin Wainwright
+	-- *IEOR 269*: Integer Programming and Combinatorial Optimization, by Prof. Alper Atamturk
+
+- Fall 2019
+	-- *MATH 228A*: Numerical Solutions of Differential Equations, by Prof. Lin Lin
+	-- *ELENG 227B*: Convex Optimization, by Prof. Laurent El Ghaoui and Somayeh Sojoudi
+	-- *COMPSCI 289A*: Introduction to Machine Learning, by Prof. Stella Yu and Jennifer Listgarten
+	-- /COMPSCI 282A/: Designing, Visualizing and Understanding Deep Neural Networks (audited online), by Prof. John Canny
+
+== Peking University
+=== Math Courses
+- Fall 2018
+	-- Functional Analysis II
+	-- /Topology (audited)/
+	-- /Numerical Solution of Partial Differential Equations (audited)/
+
+- Spring 2017
+	-- Introduction to Numerical Analysis
+	-- Algorithms for Big Data Analysis
+	-- Optimization Methods
+
+- Fall 2017
+	-- Numerical Algebra
+	-- Applied Partial Differential Equations
+	-- Introduction to Stochastic Processes (Honor)
+	-- Methods of Stochastic Simulations (Applied Stochastic Analysis)
+
+- Spring 2017
+	-- Ordinary Differential Equations
+	-- Probability Theory
+	-- Theory of Functions of Complex Variables
+	-- Mathematical Modeling
+	-- Functional Analysis I
+
+- Fall 2016
+	-- Mathematical Analysis (Honor) III
+	-- Abstract Algebra
+	-- Functions of Real Variables
+	-- General Physics II
+
+- Spring 2016
+	-- Mathematical Analysis (Honor) II
+	-- Advanced Algebra (Honor) II
+	-- General Physics I
+
+- Fall 2015
+	-- Mathematical Analysis (Honor) I
+	-- Advanced Algebra (Honor) I
+	-- Geometry
+
+=== Computer Science Courses
+- Spring 2019
+	-- Software Engineering
+	-- Elementary Number Theory and Its Applications
+	-- Empirical Methods in Natural Language Processing
+
+- Fall 2019
+	-- Principle of Microcomputer (B)
+	-- Human-Computer Interaction (HCI)
+	-- Game Theory
+	-- Principle of Programming Languages
+
+- Spring 2018
+	-- Deep Learning: Algorithms and Applications
+	-- Introduction to Computer Networks
+	-- Networking Technology and Practices
+
+- Fall 2017
+	-- Statistical Learning
+	-- Mathematical Logic
+	-- Web Software Technology
+
+- Spring 2017
+	-- Introduction to Database Systems
+	-- Java Programming Language
+	-- Discrete Math II (Algebraic Structure and Combinatorial Mathematics)
+
+- Fall 2016
+	-- Data Structure and Algorithm (B)
+	-- Discrete Math I (Set Theory and Graph Theory)
+	-- Operating Systems (B)
+	-- C\+\+ Programming Language
+
+- Spring 2016
+	-- 	Introduction to Computing (C Programming Language)

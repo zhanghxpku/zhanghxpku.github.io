@@ -1,0 +1,61 @@
+# jemdoc: notime
+# jemdoc: menu{MENU}{research.html}
+= Research
+
+== Research Interests
+
+- Nonconvex Optimization
+- Simulation Optimization
+- Low-rank Matrix Optimization
+
+== Publications (\*=euqal contribution)
+
+. [https://lavaei.ieor.berkeley.edu/SysID_2023_1.pdf *Exact Recovery for System Identification with More Corrupt Data than Clean Data*]\n
+	Baturalp Yalcin, Haixiang Zhang, Javad Lavaei, Murat Arcak, submitted, 2024.
+. [https://lavaei.ieor.berkeley.edu/DRO_2023_OPF.pdf *Distributionally Robust Joint Chance-Constrained Optimal Power Flow using Relative Entropy*]\n
+	Haixiang Zhang\*, Eli Brock\*, Javad Lavaei, Somayeh Sojoudi, submitted, 2024.
+. [files/MSoG.pdf *Geometric Analysis of Matrix Sensing over Graphs*]\n
+	Haixiang Zhang, Ying Chen, Javad Lavaei, /Conference on Neural Information Processing Systems (NeurIPS)/, 2023.
+. [https://doi.org/10.1287/opre.2022.0030 *Stochastic Localization Methods for Convex Discrete Optimization via Simulation*]\n
+	Haixiang Zhang, Zeyu Zheng, Javad Lavaei, /Operations Research/, 2023.
+. [https://css.paperplaza.net/images/temp/CDC/files/0734.pdf *Distributionally Robust Optimization for Nonconvex QCQPs with Stochastic Constraints*]\n
+	Haixiang Zhang\*, Eli Brock\*, Julie Mulvaney-Kemp, Javad Lavaei, Somayeh Sojoudi, /Conference on Decision and Control (CDC)/, 2023.
+. [https://link.springer.com/article/10.1007/s10107-023-02008-5 *A New Complexity Metric for Nonconvex Rank-one Generalized Matrix Completion*]\n
+	Haixiang Zhang, Baturalp Yalcin, Javad Lavaei, Somayeh Sojoudi, /Mathematical Programming/, 2023.
+. [https://doi.org/10.1287/opre.2022.2295 *Gradient-based Algorithms for Convex Discrete Optimization via Simulation*]\n
+	Haixiang Zhang, Zeyu Zheng, Javad Lavaei, /Operations Research/, 2022.
+. [https://proceedings.mlr.press/v151/yalcin22a.html *Factorization Approach for Low-complexity Matrix Completion Problems: Exponential Number of Spurious Solutions and Failure of Gradient Methods*]\n
+	Baturalp Yalcin, Haixiang Zhang, Javad Lavaei, Somayeh Sojoudi, /25th International Conference on Artificial Intelligence and Statistics (AISTATS)/, 2022.
+. [https://doi.org/10.1109/TCNS.2022.3145749 *Uniqueness of Power Flow Solutions Using Graph-theoretic Notions*]\n
+	Haixiang Zhang, SangWoo Park, Javad Lavaei, Ross Baldick, /IEEE Transactions on Control of Network Systems/, 2021.
+. [https://ojs.aaai.org/index.php/AAAI/article/download/21252/version/19539/21001 *Local and Global Linear Convergence of General Low-Rank Matrix Recovery Problems*]\n
+	Yingjie Bi, Haixiang Zhang, Javad Lavaei, /Thirty-Sixth AAAI Conference on Artificial Intelligence/, 2022.
+. [https://proceedings.neurips.cc/paper/2021/hash/e60e81c4cbe5171cd654662d9887aec2-Abstract.html *General Low-rank Matrix Optimization: Geometric Analysis and Sharper Bounds*]\n
+	Haixiang Zhang, Yingjie Bi, Javad Lavaei, /Conference on Neural Information Processing Systems (NeurIPS)/, 2021.
+. [https://proceedings.neurips.cc/paper_files/paper/2021/hash/6c81c83c4bd0b58850495f603ab45a93-Abstract.html *Stochastic L-Convex Function Minimization*]\n
+	Haixiang Zhang, Zeyu Zheng, Javad Lavaei, /Conference on Neural Information Processing Systems (NeurIPS)/, 2021.
+. [https://link.springer.com/article/10.1007/s10107-021-01702-6 *On the Geometric Analysis of A Quartic-quadratic Optimization Problem under A Spherical Constraint*]\n
+	Haixiang Zhang, Andre Milzarek, Zaiwen Wen, Wotao Yin, /Mathematical Programming/, 2021.
+. [https://doi.org/10.1109/CDC42340.2020.9303907 *A Dynamical System Perspective for Escaping Sharp Local Minima in Equality Constrained Optimization Problems*]\n
+	Han Feng, Haixiang Zhang, Javad Lavaei, /Conference on Decision and Control (CDC)/, 2020.
+. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3848865 *Selection of the Best under Convexity*]\n
+	Haixiang Zhang, Zeyu Zheng, Javad Lavaei, /technical report/, 2021.
+
+== Talks
+. *Session on ``Efficient algorithms for non-convex low-rank matrix optimization problems''*\n
+	INFORMS Annual Meeting, Phoenix, AZ, October 2023
+. *Minisymposium on ``Recent Advances in Stochastic Optimization Methods for Machine Learning''*\n
+	SIAM Optimization Conference, Seattle, WA, June 2023
+. *Guest lecture at ``Numerical algorithms for nonlinear optimization and machine learning'' course*\n
+	Tsinghua-Berkeley Shenzhen Institute (TBSI), online, May 2023
+. *Seminar of the Elite Program of Computational and Applied Math for Ph.D. Students*\n
+	Peking University, Beijing, China, September 2022
+. *Session on ``Efficient algorithms for non-convex low-rank matrix optimization problems''*\n
+	INFORMS Annual Meeting, Indianapolis, IN, October 2022
+. *Session on ``Reaching global optimum in non-convex optimization problems''*\n
+	INFORMS Annual Meeting, Anaheim, CA, October 2021
+. *Seminar of the Elite Program of Computational and Applied Math for Ph.D. Students*\n
+	Peking University, Beijing, China, April 2019
+. *Short talk at the Mathematical Programming Branch of Operation Society of China*\n
+	Beihang University (BUAA), Beijing, China, September 2018
+		
